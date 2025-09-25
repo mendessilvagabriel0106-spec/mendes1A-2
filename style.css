@@ -2,9 +2,16 @@ body {
     background-color: rgb(41, 74, 104);
     color: rgb(246, 249, 253);
     font-family: "Chakra Petch", sans-serif;
-    font-family: "Chakra Petch", sans-serif;
     display:flex
-    justify-content:center;
+    justify-content center;
     align-items:center;
+    height: 700px;
+    margin: 0;
 }
       
+button {
+
+    background-color: rgb(31, 64, 95);
+    color: white;
+    font-family: "Chakra Petch", sans-serif;
+}
